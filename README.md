@@ -46,13 +46,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthan0000&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan0000&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthan0000&theme=tokyonight" alt="streak stats"/>
-</p>
