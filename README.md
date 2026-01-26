@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Manthan Jasoliya</h1>
-<h3 align="center">💻 IIIT Vadodara | Computer Science | MERN Stack Developer</h3>
+<h3 align="center">💻 IIIT Vadodara | Computer Science | FULL Stack Developer</h3>
 
 <!-- GIF -->
 <p align="center">
