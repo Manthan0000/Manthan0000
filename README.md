@@ -47,9 +47,6 @@
 
 ---
 ## My Coding Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Manthan&theme=dark" alt="GitHub Streak" /></a>
-
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/m_aura/)
 [![](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Manthan0000)
 
