@@ -141,10 +141,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://cloudinary.com/" target="_blank">
-<img src="https://seeklogo.com/images/C/cloudinary-logo-91C6E9A9B3-seeklogo.com.png" width="45" height="45"/>
-</a>
-
 <a href="https://www.npmjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
 </a>
