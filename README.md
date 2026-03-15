@@ -63,10 +63,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://ejs.co/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="45" height="45"/>
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
 </a>
@@ -117,10 +113,6 @@
 
 <a href="https://vercel.com/" target="_blank">
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="45" height="45"/>
-</a>
-
-<a href="https://render.com/" target="_blank">
-<img src="https://seeklogo.com/images/R/render-logo-1EBF6CFA9F-seeklogo.com.png" width="45" height="45"/>
 </a>
 
 <!-- Data Science -->
